@@ -4,7 +4,8 @@ Brutus is a simple Sha-1 hash cracker. It compares the hash to each word in a `d
 Make sure that your wordlist file is located in your project's root directory.
 
 ```bash
-cargo build && alias brutus="cargo run --"
+cargo build
+alias brutus="cargo run --"
 ```
 
 - To view commands:
