@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 sha-1 = "0.10.0"
 hex = "0.4.3"
+thiserror = "1.0"
+anyhow = "1.0"
