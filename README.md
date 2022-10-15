@@ -1,6 +1,6 @@
 Brutus is a simple Sha-1 hash cracker. It compares the hash to each word in a `dictionary.txt` to find a match.
 
-# Usage
+## Usage
 Make sure that your wordlist file is located in your project's root directory.
 
 ```bash
